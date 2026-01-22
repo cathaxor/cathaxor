@@ -86,13 +86,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![VPS](https://img.shields.io/badge/VPS-555555?style=for-the-badge)
 
----
-
-## 🧠 Competitive Programming
-![LeetCode Stats](https://leetcard.jacoblin.cool/cathaxor?theme=nord&font=Salsa&ext=activity)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
