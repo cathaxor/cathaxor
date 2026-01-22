@@ -2,7 +2,7 @@
   Welcome to Abdulla Rahaman's (CatHaxor) profile!
 </h3>
 <!-- Visitor Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=cathaxor&color=7C3AED&label=PROFILE+VISITORS&style=for-the-badge)
+[![Profile Views](https://komarev.com/ghpvc/?username=cathaxor&color=7C3AED&label=PROFILE+VISITORS&style=for-the-badge)]
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Enthusiast;Web+Pentester;Linux+Ninja;Hacker+In+Training;Script+Creator;Always+Learning+New+Things;@cathaxor" alt="Typing SVG" /></a>
 </p>
