@@ -54,14 +54,6 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
----
-
-## 🧩 Competitive Programming
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/cathaxor?theme=nord&font=Salsa&ext=activity)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
