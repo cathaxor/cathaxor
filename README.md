@@ -86,28 +86,11 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![VPS](https://img.shields.io/badge/VPS-555555?style=for-the-badge)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cathaxor&show_icons=true&theme=tokyonight"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cathaxor&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## ⚡ GitHub Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cathaxor&theme=tokyo-night&hide_border=true"/>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cathaxor&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
