@@ -42,8 +42,7 @@
 - 🌱 Always learning new technologies  
 
 🌐 **Online Presence**
-- https://www.cathaxor.xyz  
-- https://download.cathaxor.xyz  
+- https://www.cathaxor.dev 
 - https://cathaxor.site  
 
 ---
