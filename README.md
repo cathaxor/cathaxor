@@ -17,7 +17,7 @@
 <!-- ================= QUICK LINKS ================= -->
 <p align="center">
   <a href="https://www.cathaxor.dev"><img src="https://img.shields.io/badge/Main_Site-7C3AED?style=for-the-badge"/></a>
-  <a href="https://cathaxor.site"><img src="https://img.shields.io/badge/Alt_Site-00BCD4?style=for-the-badge"/></a>
+  <a href="https://cathaxor.com"><img src="https://img.shields.io/badge/Alt_Site-00BCD4?style=for-the-badge"/></a>
 </p>
 
 <!-- ================= SOCIAL ================= -->
