@@ -43,7 +43,7 @@
 
 🌐 **Online Presence**
 - https://www.cathaxor.dev 
-- https://cathaxor.site  
+- https://cathaxor.com 
 
 ---
 
