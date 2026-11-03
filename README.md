@@ -39,7 +39,7 @@
 
 <img align="right" width="28%" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif" />
 
-Hey! I'm **Abdulla Rahaman**, also known as **CatHaxor**.
+Hey! I'm **Abdur Rahaman Abdulla**, also known as **CatHaxor**.
 
 I'm a developer and technology enthusiast from Bangladesh. I enjoy exploring how technology works, building practical software, solving technical problems, and experimenting with ideas that turn into real-world projects.
 
