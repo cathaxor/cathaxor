@@ -281,13 +281,6 @@ The goal is to understand how AI systems can become useful tools for independent
   <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=cathaxor&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📈 Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cathaxor&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
 ## 🐍 Contribution Snake
 
 <p align="center">
